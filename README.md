@@ -39,3 +39,21 @@ E.g: Ubuntu, Arch Linux, Debian GNU etc.
 * Cent OS
 * Kali Linux
 * Arch Linux
+
+## Linux vs Windows
+
+* Linux runs for months or years without reboot, but in windows often reboot is required.
+* Linux is Free But Windows is Paid.
+* Most of the software is available for windows but not in linux.
+* Linux is Secure than windows.
+* Linux is Fully Customizable but Windows is not.
+
+## Points to Remember
+
+* Folder in linux called directory.
+* Linux is a case sensitive System. A is different than a.
+* Avoid using filename as space.
+* Super Admin is also called root who can do anything.
+* Software is called a package.
+
+## Are all linux based OS free?
