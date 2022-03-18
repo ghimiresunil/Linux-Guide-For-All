@@ -1,4 +1,4 @@
-# Linux-Guide-For-All
+# Linux Guide For All
 
 ![linux](https://user-images.githubusercontent.com/40186859/158926847-3daddbe4-e97a-4ccd-8a51-a6aed12a32d2.png)
 
