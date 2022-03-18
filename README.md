@@ -59,3 +59,41 @@ E.g: Ubuntu, Arch Linux, Debian GNU etc.
 ## Are all linux based OS free?
 
 No, not all linux based OS are free. Enterprise level linux based operating systems are paid. E.g Red Hat is a paid OS, if we have a problem the Red Hat team will support and provide us a solution.
+
+## Basic Tour Of Ubuntu
+
+* Background Change
+* Datetime Settings
+* Wifi
+* Bluetooth, etc....
+
+## Everyday Used Linux Commands
+
+Command | Meaning  
+--- | --- 
+whoami | Your current user name.
+hostname| Your current host name.
+pwd | Print working directory.
+ls | List directory contents.
+ls -l | List directory contents in long format.
+touch | Create a file.
+cat | Concatenate files and print on output i.e. read file.
+users | Display currently logged in users.
+cp | Copy file. E.g: cp file1.txt file2.txt 
+mv | Move file. E.g: mv file1.txt file2.txt 
+mkdir | Create a directory. E.g: mkdir work 
+rmdir | Remove directory. E.g: rmdir work 
+rm | Remove files or directory.
+rm -R | Remove directory will contain all content.
+cd | Change directory.
+cd .. | One step back.
+touch ch{1..9}.txt | Create file ch1 to ch9.
+rm ch* | Delete all files starting from ch.
+locate | find your file by name \[Fast\]. sudo updatedb 
+sudo | Forcefully do a job. 
+find | Find or search in file. \[Slow\]. E.g find -name "brp.txt"
+date | Show date and time
+sudo reboot | Restart computer
+clear | Clear screen
+
+
