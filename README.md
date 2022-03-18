@@ -57,3 +57,5 @@ E.g: Ubuntu, Arch Linux, Debian GNU etc.
 * Software is called a package.
 
 ## Are all linux based OS free?
+
+No, not all linux based OS are free. Enterprise level linux based operating systems are paid. E.g Red Hat is a paid OS, if we have a problem the Red Hat team will support and provide us a solution.
