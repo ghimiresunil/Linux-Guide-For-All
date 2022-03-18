@@ -1,5 +1,7 @@
 # Linux-Guide-For-All
 
+![linux](https://user-images.githubusercontent.com/40186859/158926847-3daddbe4-e97a-4ccd-8a51-a6aed12a32d2.png)
+
 ## What is Unix?
 
 Unix comes before linux, so if you know a little bit, it will be great for you. Unix is an operating system whose development started in 1969 for multi-user, multi-tasking. Unix is not free and open source os. It can be only utilized by its copywriters. So linux came into the picture. E.g: SunOS, Solaris, SCO Unix, HP/UX.
@@ -47,6 +49,8 @@ E.g: Ubuntu, Arch Linux, Debian GNU etc.
 * Most of the software is available for windows but not in linux.
 * Linux is Secure than windows.
 * Linux is Fully Customizable but Windows is not.
+
+![linux_vs_windows](https://user-images.githubusercontent.com/40186859/158927266-6a77af39-11cc-4cb7-9d91-9bed295c8d07.png)
 
 ## Points to Remember
 
