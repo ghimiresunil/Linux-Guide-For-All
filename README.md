@@ -96,4 +96,23 @@ date | Show date and time
 sudo reboot | Restart computer
 clear | Clear screen
 
+## User Management Command In Linux
+Command | Meaning  
+--- | --- 
+sudo passwd `username` | Change password of user.
+useradd `username`| Add new user without home directory.
+useradd -m `username`| Add new user with home directory.
+userdel `username` | Delete user without his/her user directory.
+userdel -r `username` | Delete user with his/her user directory.
+groupadd `groupname` | Add new user group.
+groupdel `groupname` | Delete user group.
+usermod -aG `groupname` `username` | Add user to group.
+su `username` | Switch to specific user.
+id `username` | Display user and group information.
+
+## Files
+- /etc/passwd => to get user lists.
+- /etc/group => to get groups details.
+- /etc/shadow => to get hash password.
+
 
