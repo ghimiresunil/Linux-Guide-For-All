@@ -119,4 +119,7 @@ id `username` | Display user and group information.
 - /etc/group => to get groups details.
 - /etc/shadow => to get hash password.
 
+## Contribution
+Contributions are very welcome! Please submit a pull request on GitHub.
+
 
